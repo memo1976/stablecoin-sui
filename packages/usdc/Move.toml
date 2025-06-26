@@ -30,8 +30,6 @@ local = "../stablecoin"
 [dependencies.sui_extensions]
 local = "../sui_extensions"
 
-[addresses]
-usdc = "0x0"
 
 [dev-dependencies]
 
